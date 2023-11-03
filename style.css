@@ -199,10 +199,6 @@ footer a {
   align-items: center;
 }
 
-footer .copywright {
-  margin: 3rem 0;
-}
-
 footer .link-icon {
   margin-block-start: 0.5rem;
   background: var(--link);
