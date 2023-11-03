@@ -90,8 +90,8 @@ header .controls {
 
 .bio .profile-img {
   margin-inline-end: 4rem;
-  width: 320px;
-  min-width: 320px;
+  width: 220px;
+  min-width: 220px;
   background: #888;
   border-radius: 25px;
 }
