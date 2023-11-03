@@ -93,7 +93,7 @@ header .controls {
   width: 320px;
   min-width: 320px;
   background: #888;
-  border-radius: 160px;
+  border-radius: 25px;
 }
 
 @media (max-width: 1024px) {
